@@ -1,0 +1,13 @@
+Spoonacular API: Offers a wide range of functionalities including searching for recipes, getting recipe information, and even generating meal plans. It's quite comprehensive and well-documented.
+
+Edamam Recipes API: Provides recipe search and diet recommendations. It's known for its detailed nutritional analysis of recipes.
+
+TheMealDB API: A simple, open database providing meal recipes. It's a good option if you're looking for an open and free API.
+
+Food2Fork API: Offers a straightforward recipe search functionality. Note that the availability and access might have changed, so it's best to check their current status.
+
+Tasty API: Powered by BuzzFeed, this API allows you to search through BuzzFeed's Tasty platform recipes.
+
+Recipe Puppy API: A simple API that allows you to search for recipes based on ingredients.
+
+BigOven API: Offers access to over 500,000 recipes, and includes features like grocery lists and menu planning.
